@@ -1,9 +1,11 @@
 body{
-    background-color: #e9c4c4;
+ background-color: #e9c4c4;
 }
 
 header{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 background-color: #dd70b5;
 }
 
