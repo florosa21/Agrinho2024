@@ -16,6 +16,10 @@ background-color: #f576c4;
     height: 200px;
     border-radius: 50px;
     padding: 20px;
+}
 
-    
+.cabecalho_menu-listaitem{
+display: inline;
+text-transform: uppercase;
+margin-left: 10px;
 }
