@@ -6,7 +6,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-background-color: #dd70b5;
+    background-color: #dd70b5;
 }
 
 footer{
@@ -19,6 +19,12 @@ background-color: #f576c4;
     border-radius: 50px;
     padding: 20px;
 }
+
+.cabecalho_menu-lista{
+
+margin: 20px;
+
+ }
 
 .cabecalho_menu-listaitem{
 display: inline;
