@@ -34,6 +34,7 @@ margin-left: 10px;
 .sobre{
 display: flex;
 justify-content: center;
+align-items: center;
 
 }
 .sobre_imagem{
